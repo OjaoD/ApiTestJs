@@ -29,3 +29,4 @@ function alerta(){
 }
 
 //Jão
+//Não é bonito, é funcional
